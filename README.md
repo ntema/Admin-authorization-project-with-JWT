@@ -1,8 +1,8 @@
 # Admin-authorization-project-with-JWT
-Admin authorization project with JWT
-An admin dashboard API project with jwt authorization
-This API is admin dashboard that gives administrative authorization for control of different functionalities in a customer communication app. 
-The application loads data to MongoDB database and displays them. Different level of authorization was implementaed including refresh token
+An admin dashboard API project with jwt authorization.
+This API is admin dashboard that gives administrative authorization for control of different functionalities in a customer communication app.
+I collaborated with George on the project.
+The application loads data to MongoDB database and displays them. Different levels of authorization were implementaed including refresh token
 
 # Postman Documentation
 The postman documentation can be viewed [here](https://documenter.getpostman.com/view/19932253/Uz5GovsG).
