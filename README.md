@@ -11,7 +11,7 @@ To get started you can simply clone this ecommerce repository and install the de
 
 >Clone the ecommerce-demo repository using git:
 
-`git clone https://github.com/ntema/E-commerce-API-project.git`
+`git clone https://github.com/ntema/Admin-authorization-project-with-JWT.git`
 >cd E-commerce-API-project
 
 >Install dependencies with this command:
